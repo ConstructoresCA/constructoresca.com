@@ -6,9 +6,8 @@ description: >
 baseurl: ""
 url: "https://constructoresca.com"
 
-twitter_username:
-github_username:
-instagram_username:
+twitter_username: constructoresca
+instagram_username: constructoresca
 
 # Build settings
 markdown: kramdown
